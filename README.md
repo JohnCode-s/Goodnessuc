@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **Ukejegoodness599@gmail.com**
 
-- ⚡ Fun fact ==  I'm interested in these non-tech topics {Philosophy, Game Theory, Finance}**
+- ⚡ Fun fact ==  I'm interested in these non-tech topics {Philosophy, Game Theory, Finance}...
+
 
 
 
