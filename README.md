@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ukeje Chukwuemeriwo Goodness</h1>
+<h1 align="center">Hi 😉, I'm Ukeje Chukwuemeriwo Goodness</h1>
 <h3 align="center"> Primarily, I am a Data Analyst who writes about Cryptocurrencies and Decentralized ledger technologies(Blockchains, DAGs e.t.c)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Goodnessuc&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="Goodnessuc" /> </p>
