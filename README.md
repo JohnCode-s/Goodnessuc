@@ -10,17 +10,21 @@
 
 - 🌱 I’m currently learning **Backend with Go and Typescript**, **Machine Learning**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Goodnessuc](https://github.com/Goodnessuc)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Goodnessuc).
 
-- 📝 I regularly write articles on [https://goodnessuc.medium.com](https://goodnessuc.medium.com)
+- 📝 I regularly write articles on [Medium](https://goodnessuc.medium.com).
 
-- 💬 Ask me about **Data Analysis, Machine learning,  Backend with Go; Typescript**
+- 👦 Learn more about me on [Mainstack](https://mstack.me/goodnessuc).
+
+- 💰 Subscribe to my Web3 newsletter on [Substack](olympus.substack.com).
+
+- 💬 Ask me about **Data Analysis; Machine learning; Backend with Go; Typescript**.
 
 - 📫 How to reach me **Ukejegoodness599@gmail.com**
 
 - ⚡ Fun fact ==  I'm interested in these non-tech topics {Philosophy, Game Theory, Finance}**
 
-- Learn more about me on [Mainstack](https://mstack.me/goodnessuc)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a><a href="http://flask.pocoo.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" alt="android" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.gitbook.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_48e27e5232baea1c96e4115e757c0fde/gitbook.png" alt="android" width="40" height="40"/> </a><p align="left">
