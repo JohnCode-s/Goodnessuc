@@ -18,7 +18,11 @@
 
 - 📫 How to reach me **Ukejegoodness599@gmail.com**
 
-- ⚡ Fun fact **I love writing, and listening to music**
+- ⚡ Fun fact --> I'm interested in these topics {Philosophy, Game Theory, Finance}**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
