@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/goodylili" target="blank"><img src="https://img.shields.io/twitter/follow/goodylili?logo=twitter&style=for-the-badge" alt="Goodylili" /></a> </p>
 
-- 🔭 I’m currently working on ---------------------, it's a blank template for now
 
 - 🌱 I’m currently learning **Backend with Go and Typescript**, **Machine Learning**.
 
@@ -26,7 +25,7 @@
 <a href="https://dev.to/https://dev.to/goodnessuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/goodnessuc" height="30" width="40" /></a>
 <a href="https://twitter.com/goodnessuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnessuc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/Goodnessuc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastine-odeh-1081a318b/" height="30" width="40" /></a>
-<a href="https://www.mstack.me/https://www.mstack.me/Goodnessuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.mstack.me/Goodnessuc" height="30" width="40" /></a>
+<a href="https://www.mstack.me/Goodnessuc" target="blank"><img align="center" src="https://mainstack.app/" alt="https://www.mstack.me/Goodnessuc" height="30" width="40" /></a>
 </p>
 
 
