@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ukeje Chukwuemeriwo Goodness</h1>
 <h3 align="center"> Primarily, I am a Data Analyst who writes about Cryptocurrencies and Decentralized ledger technologies(Blockchains, DAGs e.t.c)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goodnessuc&label=Profile%20views&color=0e75b6&style=flat" alt="Goodnessuc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goodnessuc&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="Goodnessuc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Goodnessuc" alt="Goodnessuc" /></a> </p>
 
