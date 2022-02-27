@@ -21,7 +21,7 @@
 - ⚡ Fun fact ==  I'm interested in these non-tech topics {Philosophy, Game Theory, Finance}**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a><p align="left"> <a href="http://flask.pocoo.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a><a href="http://flask.pocoo.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="android" width="40" height="40"/> </a><p align="left"> 
 
 
 <h3 align="left">Connect with me:</h3>
