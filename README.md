@@ -42,9 +42,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Goodnessuc&show_icons=true&locale=en&layout=compact" alt="Goodnessuc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Goodnessuc&show_icons=true&locale=en" alt="Goodnessuc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Goodnessuc&show_icons=true&locale=en&theme=onedark" alt="Goodnessuc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goodnessuc&" alt="Goodnessuc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goodnessuc&&theme=onedark" alt="Goodnessuc" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Goodnessuc&theme=onedark" alt="Goodnessuc" /></a> </p>
 
