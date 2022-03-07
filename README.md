@@ -8,6 +8,7 @@
 
 
 - 🌱 I’m currently learning **Backend with Go and Typescript**.
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Goodnessuc).
 
 - 📝 I regularly write articles on [Medium](https://goodnessuc.medium.com).
@@ -17,6 +18,8 @@
 - 💰 Subscribe to my Web3 newsletter on [Substack](olympus.substack.com).
 
 - 💬 Ask me about **Data Analysis; Machine learning; Backend with Go; Typescript**.
+
+-🏇 I'm available for Technical Writing gigs(Web2 & Web3)
 
 - 📫 How to reach me **Ukejegoodness599@gmail.com**
 
