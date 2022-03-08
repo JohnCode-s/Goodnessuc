@@ -17,9 +17,11 @@
 
 - 💰 Subscribe to my Web3 newsletter on [Substack](olympus.substack.com).
 
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/goodnessuc/)
+
 - 💬 Ask me about **Data Analysis; Machine learning; Backend with Go; Typescript**.
 
--🏇 I'm available for Technical Writing gigs(Web2 & Web3)
+-🏇 I'm available for Technical Writing gigs (Web2 & Web3)
 
 - 📫 How to reach me **Ukejegoodness599@gmail.com**
 
