@@ -36,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/goodnessuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/goodnessuc" height="30" width="40" /></a>
+<a href="https://dev.to/goodnessuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/goodnessuc" height="30" width="40" /></a>
 <a href="https://twitter.com/goodylili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnessuc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/Goodnessuc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastine-odeh-1081a318b/" height="30" width="40" /></a>
 <a href="https://www.mstack.me/Goodnessuc" target="blank"><img align="center" src="https://res.cloudinary.com/codeleaf/image/upload/v1635435782/favico_new.svg" alt="https://www.mstack.me/Goodnessuc" height="30" width="40" /></a>
